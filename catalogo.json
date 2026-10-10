@@ -1,0 +1,301 @@
+{
+  "categories": [
+
+
+    {
+      "name": "Agricultura e Natureza",
+      "topics":[
+        {
+          "title": "Agricultura Familiar",
+          "image": "imagens/Agricultura e Natureza/Agricultura_Familiar.jpg",
+          "sources": "Adicionar"
+        },
+        {
+          "title": "Agricultura Familiar",
+          "image": "imagens/Agricultura e Natureza/cadastro_castracao_pet.jpg",
+          "sources": "Adicionar"
+        }
+      ]
+    },
+
+    
+    
+    {
+      "name": "Saúde",
+      "topics": [
+        {
+          "title": "Fibromialgia",
+          "image": "imagens/Saude/Fibromialgia.jpg",
+          "sources": "EC 103/2019\nLei 15.176/2025\nCNN Brasil (jul. 2025)\nA Crítica (fev. 2026)"
+        },
+        {
+          "title": "Fisioterapia",
+          "image": "imagens/Saude/Fisioterapia.jpg",
+          "sources": "Adicionar"
+        },
+        {
+          "title": "Psicólogos nas Escolas",
+          "image": "imagens/Saude/Psicologos_Escolas.jpg",
+          "sources": "Adicionar"
+        },
+        {
+          "title": "Agentes Comunitários ",
+          "image": "imagens/Saude/agentes_comunitarios.jpg",
+          "sources": "Adicionar"
+        },
+        {
+          "title": "Autismo",
+          "image": "imagens/Saude/autismo.jpg",
+          "sources": "Adicionar"
+        },
+        {
+          "title": "Dentistas",
+          "image": "imagens/Saude/Dentistas.jpg",
+          "sources": "Adicionar"
+        },
+        {
+          "title": "Diabetes e Pressão Alta",
+          "image": "imagens/Saude/diabetes_pressao_alta.jpg",
+          "sources": "Adicionar"
+        },
+        {
+          "title": "Endemetriose",
+          "image": "imagens/Saude/endemetriose.jpg",
+          "sources": "Adicionar"
+        },
+        {
+          "title": "Enfermagem",
+          "image": "imagens/Saude/Enfermagem.jpg",
+          "sources": "Adicionar"
+        },
+          {
+          "title": "Lei dos Cuidados",
+          "image": "imagens/Saude/leidoscuidados.jpg",
+          "sources": "Adicionar"
+        },
+                {
+          "title": "Mais Médicos",
+          "image": "imagens/Saude/Mais_Médicos.jpg",
+          "sources": "Adicionar"
+        },
+        {
+          "title": "Outubro Rosa",
+          "image": "imagens/Saude/outubro-rosa.jpg",
+          "sources": "Adicionar"
+        },
+        {
+          "title": "Psicologos Escolares",
+          "image": "imagens/Saude/Psicologos_Escolas.jpg",
+          "sources": "Adicionar"
+        }
+      ]
+    },
+
+
+
+
+
+    {
+      "name": "Educação",
+      "topics": [
+        {
+          "title": "Educação Física Nas Escolas",
+          "image": "imagens/Educacao/EF_Escolas.jpg",
+          "sources": "Adicionar"
+        },
+        {
+          "title": "ENEM",
+          "image": "imagens/Educacao/enem.jpg",
+          "sources": "Adicionar"
+        },
+        {
+          "title": "FIES",
+          "image": "imagens/Educacao/FIES.jpg",
+          "sources": "Adicionar"
+        },
+        {
+          "title": "Inclusão",
+          "image": "imagens/Educacao/inclusao.jpg",
+          "sources": "Adicionar"
+        },
+                {
+          "title": "Investimento em Universidades",
+          "image": "imagens/Educacao/Investimento_Universidades.jpg",
+          "sources": "Adicionar"
+        },        {
+          "title": "Merenda",
+          "image": "imagens/Educacao/Merenda.jpg",
+          "sources": "Adicionar"
+        },
+                {
+          "title": "Pé de Meia",
+          "image": "imagens/Educacao/pedemeia.jpg",
+          "sources": "Adicionar"
+        }
+      ]
+    },
+
+
+
+
+
+    {
+      "name": "Economia",
+      "topics": [
+        {
+          "title": "BPC/LOAS",
+          "image": "imagens/Economia/BPC_LOAS.jpg",
+          "sources": "Adicionar"
+        },
+        {
+          "title": "Crédito para carros",
+          "image": "imagens/Economia/CRÉDITO_BARATO_CARROS.jpg",
+          "sources": "Adicionar"
+        },
+        {
+          "title": "Dívida Pública",
+          "image": "imagens/Economia/Dívida_Pública.jpg",
+          "sources": "Adicionar"
+        },
+        {
+          "title": "INSS",
+          "image": "imagens/Economia/Pensionistas_INSS.jpg",
+          "sources": "Adicionar"
+        },
+        {
+          "title": "Ranking Maiores Economias",
+          "image": "imagens/Economia/Ranking_Mundial_Economias.jpg",
+          "sources": "Adicionar"
+        },
+        {
+          "title": "Gasolina",
+          "image": "imagens/Economia/gasolina.jpg",
+          "sources": "Adicionar"
+        },
+        {
+          "title": "Juros",
+          "image": "imagens/Economia/Juros.jpg",
+          "sources": "Adicionar"
+        },
+        {
+          "title": "Minha Casa Minha Vida",
+          "image": "imagens/Economia/minha_casa_mv.jpg",
+          "sources": "Adicionar"
+        },
+        {
+          "title": "Pensionistas INSS",
+          "image": "imagens/Economia/Pensionistas_INSS.jpg",
+          "sources": "Adicionar"
+        },
+        {
+          "title": "Pequenos Negócios",
+          "image": "imagens/Economia/pequenos_negocios.jpg",
+          "sources": "Adicionar"
+        }
+      ]
+    },
+
+
+
+
+    {
+      "name": "Segurança",
+      "topics": [
+        {
+          "title": "Reajuste dos Militares",
+          "image": "imagens/Seguranca/Reajuste_Militar.jpg",
+          "sources": "Adicionar"
+        },
+        {
+          "title": "Servidore Públicos",
+          "image": "imagens/Seguranca/servidores_publicos.jpg",
+          "sources": "Adicionar"
+        }
+      ]
+    },
+    {
+      "name": "Cultura Lazer e Esporte",
+      "topics": [
+        {
+          "title": "Ministério do Esporte",
+          "image": "imagens/Cultura Lazer e Esporte/Atletas.jpg",
+          "sources": "Adicionar"
+        },
+        {
+          "title": "Games",
+          "image": "imagens/Cultura Lazer e Esporte/Games_Jogadores.jpg",
+          "sources": "Adicionar"
+        },
+        {
+          "title": "Medalhistas",
+          "image": "imagens/Cultura Lazer e Esporte/medalhistas.jpg",
+          "sources": "Adicionar"
+        }
+      ]
+    },
+
+
+
+
+    {
+      "name": "Soberania Nacional",
+      "topics":[
+        {
+          "title": "Chip, Acelerador e Caça",
+          "image": "imagens/Soberania_Nacional/Tecnologia.jpg",
+          "sources": "Adicionar"
+        }
+      ]
+    },
+
+
+
+
+
+    {
+      "name": "Trabalho",
+      "topics":[
+        {
+          "title": "Domésticas",
+          "image": "imagens/Trabalho/Domesticas.jpg",
+          "sources": "Adicionar"
+        },
+        {
+          "title": "Advogados",
+          "image": "imagens/Trabalho/advogados.jpg",
+          "sources": "Adicionar"
+        },
+        {
+          "title": "Aposentadoria",
+          "image": "imagens/Trabalhos/aposentadoria.jpg",
+          "sources": "Adicionar"
+        },
+        {
+          "title": "Desemprego",
+          "image": "imagens/Trabalhos/desemprego.jpg",
+          "sources": "Adicionar"
+        },
+        {
+          "title": "Motoboys ",
+          "image": "imagens/Trabalhos/motoboys.jpg",
+          "sources": "Adicionar"
+        },
+        {
+          "title": "Pesca",
+          "image": "imagens/Trabalhos/pesca.jpg",
+          "sources": "Adicionar"
+        },
+        {
+          "title": "Bares e Restaurantes",
+          "image": "imagens/Trabalhos/taxas_bares.jpg",
+          "sources": "Adicionar"
+        },
+        {
+          "title": "Trabalhador Autonomo",
+          "image": "imagens/Trabalhos/trabalhador_autonomo.jpg",
+          "sources": "Adicionar"
+        }
+      ]
+    }
+  ]
+}

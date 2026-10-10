@@ -1,0 +1,93 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#f2eaf6">
+  <meta name="description" content="Catálogo visual organizado por temas e tópicos.">
+  <title>Estatísticas de Bolso</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header class="topbar">
+    <a class="brand" href="./" aria-label="Arquivo Visual — página inicial">
+      <span class="brand-mark">AV</span>
+      <span><strong>CATÁLOGO ONLINE</strong><small>DISPONIVEL GRATUITAMENTE</small></span>
+    </a>
+    <span class="read-only-label"><span class="status-dot"></span> ACERVO PÚBLICO</span>
+  </header>
+
+  <main>
+    <div id="imageModal" class="image-modal" hidden aria-hidden="true">
+      <button class="modal-back" id="modalBack" type="button" aria-label="Voltar para a lista">←</button>
+      <button class="modal-close" id="modalClose" type="button" aria-label="Fechar imagem">✕</button>
+      <button class="modal-nav modal-prev" id="modalPrev" type="button" aria-label="Imagem anterior">‹</button>
+      <div class="modal-stage">
+        <img id="modalImage" src="" alt="">
+        <div class="modal-caption" id="modalCaption"></div>
+      </div>
+      <button class="modal-nav modal-next" id="modalNext" type="button" aria-label="Próxima imagem">›</button>
+    </div>
+
+    <section class="intro">
+      <p class="eyebrow"><span class="eyebrow-dot"></span> Informações políticas * COM FONTES *</p>
+      <h1>ESTATÍSTICAS<br><span>DE BOLSO</span></h1>
+      <p class="intro-copy">Explore propostas por tema. Selecione uma categoria para encontrar mais informações.</p>
+    </section>
+
+    <section class="toolbar">
+      <div>
+        <p class="eyebrow">EXPLORAR ACERVO</p>
+        <h2 id="sectionTitle">Categorias</h2>
+      </div>
+      <label class="searchbox">
+        <span aria-hidden="true">⌕</span>
+        <input id="searchInput" type="search" placeholder="Buscar tema ou tópico..." autocomplete="off" aria-label="Buscar tema ou tópico">
+      </label>
+    </section>
+
+    <section id="categoryView" class="category-grid" aria-live="polite"></section>
+
+    <section id="topicView" hidden>
+      <div class="subhead">
+        <button class="back-link" id="backToCategories">← Todas as categorias</button>
+        <p class="eyebrow" id="topicEyebrow">CATEGORIA</p>
+        <h2 id="topicHeading"></h2>
+        <p id="topicCount" class="muted"></p>
+      </div>
+      <div id="topicGrid" class="topic-grid"></div>
+    </section>
+
+    <section id="detailView" hidden>
+      <button class="back-link detail-back" id="backToTopics">← Voltar aos tópicos</button>
+      <article class="detail-layout">
+        <div class="detail-image-wrap">
+          <img id="detailImage" alt="">
+        </div>
+        <div class="detail-info">
+          <p class="eyebrow" id="detailCategory"></p>
+          <h2 id="detailTitle"></h2>
+          <section class="source-panel">
+            <p class="source-label">FONTES E REFERÊNCIAS</p>
+            <div id="sourceContent" class="source-content"></div>
+            <p id="noSources" class="source-empty" hidden>As fontes desta publicação ainda não foram cadastradas.</p>
+          </section>
+          <p class="detail-path" id="detailPath"></p>
+        </div>
+      </article>
+    </section>
+
+    <section class="empty-state" id="emptyState" hidden>
+      <div class="empty-symbol">—</div>
+      <h2>Nenhuma publicação encontrada</h2>
+      <p>Tente outro termo de busca ou volte para visualizar todas as categorias.</p>
+    </section>
+
+    <footer class="footer">
+      <span>ESTÁTISTICAS DE BOLSO</span>
+      <span id="footerCount">Carregando acervo…</span>
+    </footer>
+  </main>
+  <script src="catalogo.js"></script>
+</body>
+</html>

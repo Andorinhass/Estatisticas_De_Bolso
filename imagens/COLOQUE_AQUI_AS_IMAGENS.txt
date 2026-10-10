@@ -1,0 +1,1 @@
+Coloque as imagens nas subpastas por categoria e atualize catalogo.json.
