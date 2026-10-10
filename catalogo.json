@@ -59,8 +59,8 @@
           "sources": "Adicionar"
         },
         {
-          "title": "Endemetriose",
-          "image": "imagens/Saude/endemetriose.jpg",
+          "title": "Endometriose",
+          "image": "imagens/Saude/endometriose.jpg",
           "sources": "Adicionar"
         },
         {
@@ -75,7 +75,7 @@
         },
                 {
           "title": "Mais Médicos",
-          "image": "imagens/Saude/Mais_Médicos.jpg",
+          "image": "imagens/Saude/Mais_Medicos.jpg",
           "sources": "Adicionar"
         },
         {
@@ -267,32 +267,32 @@
         },
         {
           "title": "Aposentadoria",
-          "image": "imagens/Trabalhos/aposentadoria.jpg",
+          "image": "imagens/Trabalho/aposentadoria.jpg",
           "sources": "Adicionar"
         },
         {
           "title": "Desemprego",
-          "image": "imagens/Trabalhos/desemprego.jpg",
+          "image": "imagens/Trabalho/desemprego.jpg",
           "sources": "Adicionar"
         },
         {
           "title": "Motoboys ",
-          "image": "imagens/Trabalhos/motoboys.jpg",
+          "image": "imagens/Trabalho/motoboys.jpg",
           "sources": "Adicionar"
         },
         {
           "title": "Pesca",
-          "image": "imagens/Trabalhos/pesca.jpg",
+          "image": "imagens/Trabalho/pesca.jpg",
           "sources": "Adicionar"
         },
         {
           "title": "Bares e Restaurantes",
-          "image": "imagens/Trabalhos/taxas_bares.jpg",
+          "image": "imagens/Trabalho/taxas_bares.jpg",
           "sources": "Adicionar"
         },
         {
           "title": "Trabalhador Autonomo",
-          "image": "imagens/Trabalhos/trabalhador_autonomo.jpg",
+          "image": "imagens/Trabalho/trabalhador_autonomo.jpg",
           "sources": "Adicionar"
         }
       ]
